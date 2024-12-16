@@ -1,0 +1,13 @@
+2024-12-16 19:12:12,897 INFO Start polling
+2024-12-16 19:12:12,946 INFO Run polling for bot @transliteration_docker_bot id=7673986926 - 'transliteration'
+2024-12-16 19:12:13,012 INFO Galina Goriainova - 7577166219 запустил бота
+2024-12-16 19:12:13,294 INFO Update id=199937770 is handled. Duration 281 ms by bot id=7673986926
+2024-12-16 19:12:48,767 INFO Galina Goriainova 7577166219: Романова Валентина Петровна -> Romanova Valentina Petrovna
+2024-12-16 19:12:49,483 INFO Update id=199937771 is handled. Duration 715 ms by bot id=7673986926
+2024-12-16 19:13:14,472 INFO Galina Goriainova 7577166219: Сомов Алексей Семенович -> Somov Aleksei Semenovich
+2024-12-16 19:13:14,657 INFO Update id=199937772 is handled. Duration 184 ms by bot id=7673986926
+2024-12-16 19:18:04,928 INFO Galina Goriainova 7577166219: Гринёв Иосив львович -> Grinev Iosiv Lvovich
+2024-12-16 19:18:05,277 INFO Update id=199937773 is handled. Duration 348 ms by bot id=7673986926
+2024-12-16 19:18:16,766 WARNING Received SIGTERM signal
+2024-12-16 19:18:16,766 INFO Polling stopped for bot @transliteration_docker_bot id=7673986926 - 'transliteration'
+2024-12-16 19:18:16,766 INFO Polling stopped
